@@ -1,1 +1,1 @@
-export { StudentProfileSidebar } from './ui/StudentProfileSidebar.tsx';
+export { StudentProfileSidebar } from './ui/StudentProfileSidebar';
